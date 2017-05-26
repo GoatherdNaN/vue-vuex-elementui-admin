@@ -19,7 +19,10 @@ npm run build   发布生产版本，对代码进行混淆压缩，提取公共�
 ```
 ## 目标功能
 - 登陆页面（登陆，记住密码，登出）
+![image](https://github.com/GoatherdNaN/vue-vuex-elementui-admin/blob/master/screenshots/login.png)
 - 列表界面（增删改查）
+![image](https://github.com/GoatherdNaN/vue-vuex-elementui-admin/blob/master/screenshots/list.png)
 - 图表界面（echarts,折线图和饼图）
+![image](https://github.com/GoatherdNaN/vue-vuex-elementui-admin/blob/master/screenshots/charts.png)
 
 
