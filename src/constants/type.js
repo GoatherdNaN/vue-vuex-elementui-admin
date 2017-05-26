@@ -1,0 +1,12 @@
+export const LOADING = 'LOADING';
+export const LOGIN_FLOW = 'LOGIN_FLOW';
+export const LOGIN_OUT = 'LOGIN_OUT';
+//入库管理
+export const GET_INSTOCK_DATA = 'GET_INSTOCK_DATA';
+export const SET_INSTOCK_LIST = 'SET_INSTOCK_LIST';
+export const INSTOCK_EDIT = 'INSTOCK_EDIT';
+export const NEW_INSTOCK_ITEM = 'NEW_INSTOCK_ITEM';
+export const INSTOCK_DELETE = 'INSTOCK_DELETE';
+//统计
+export const GET_STATISTICS_DATA = 'GET_STATISTICS_DATA';
+export const SET_STATISTICS_DATA = 'SET_STATISTICS_DATA';
